@@ -1,4 +1,9 @@
-<div class="navbar">
-    <a class="site-title" href="/">{{ site.Title }}</a>
+<div class="container d-flex justify-content-center">
+    <a class="d-flex" href="/">
+        <span class="site-title">{{ site.Title }}</span>
+    </a>
+    <form class="col-4">
+        <input type="search">
+    </form>
 </div>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

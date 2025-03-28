@@ -178,13 +178,31 @@ h1.page-title {
 }
 
 .navbar {
-    background-color: #240745;
+    background-color: hsl(268, 82%, 15%);
     overflow: hidden;
-    padding: 10px 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .site-title {
     color: #fff;
     font-size: 1.5rem;
     font-family: $font-header;
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
+
+input {
+    border-radius: 15px;
+    padding: 10px 15px;
+    border: 2px solid #ccc;
+    width: 250px;
+    margin-left: 100%;
 }
