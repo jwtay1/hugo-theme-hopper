@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wikis on My New Hugo Site</title>
+    <title>Wikis on Hugo Theme Hopper</title>
     <link>http://localhost:1313/wiki/</link>
-    <description>Recent content in Wikis on My New Hugo Site</description>
+    <description>Recent content in Wikis on Hugo Theme Hopper</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

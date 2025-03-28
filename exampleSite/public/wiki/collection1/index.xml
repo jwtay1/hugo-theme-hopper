@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collection 1 on My New Hugo Site</title>
+    <title>Collection 1 on Hugo Theme Hopper</title>
     <link>http://localhost:1313/wiki/collection1/</link>
-    <description>Recent content in Collection 1 on My New Hugo Site</description>
+    <description>Recent content in Collection 1 on Hugo Theme Hopper</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Mar 2025 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/wiki/collection1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Title One</title>
+      <title>Image normalization</title>
       <link>http://localhost:1313/wiki/collection1/titleone/</link>
       <pubDate>Tue, 25 Mar 2025 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/wiki/collection1/titleone/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The oil-on-canvas painting is dominated by a night sky roiling with chromatic blue swirls, a glowing yellow crescent moon, and stars rendered as radiating orbs. One or two cypress trees, often described as flame-like, tower over the foreground to the left, their dark branches curling and swaying to the movement of the sky that they partly obscure. Amid all this animation, a structured village sits in the distance on the lower right of the canvas. Straight controlled lines make up the small cottages and the slender steeple of a church, which rises as a beacon against rolling blue hills. The glowing yellow squares of the houses suggest the welcoming lights of peaceful homes, creating a calm corner amid the painting’s turbulence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

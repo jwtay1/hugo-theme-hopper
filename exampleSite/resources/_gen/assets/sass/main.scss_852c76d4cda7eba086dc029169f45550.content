@@ -68,7 +68,7 @@ footer {
 }
 
 a {
-  color: #00e;
+  color: #d44211;
   text-decoration: none;
 }
 
@@ -231,6 +231,18 @@ h1.page-title {
   .hidden-sm {
     display: block;
   }
+}
+
+.navbar {
+  background-color: #240745;
+  overflow: hidden;
+  padding: 10px 50px;
+}
+
+.site-title {
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: "Lora", serif;
 }
 
 /*# sourceMappingURL=main.css.map */
