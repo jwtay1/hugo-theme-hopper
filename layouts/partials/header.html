@@ -1,9 +1,9 @@
-<div class="container d-flex justify-content-center">
-    <a class="d-flex" href="/">
+<div class="topnav container d-flex">
+    <a href="/">
         <span class="site-title">{{ site.Title }}</span>
     </a>
-    <form class="col-4">
-        <input type="search">
+    <form>
+        <input type="search" placeholder="CTRL + / to search">
     </form>
 </div>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

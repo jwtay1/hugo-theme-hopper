@@ -178,8 +178,7 @@ h1.page-title {
 }
 
 .navbar {
-    background-color: hsl(268, 82%, 15%);
-    overflow: hidden;
+    background-color: #240746;
     padding-bottom: 10px;
     padding-top: 10px;
 }
@@ -195,14 +194,15 @@ h1.page-title {
     flex-wrap: wrap;
 }
 
-.justify-content-center {
-    justify-content: center !important;
+.justify-content-between {
+    justify-content: space-between !important;
 }
 
 input {
+    float: right;
     border-radius: 15px;
     padding: 10px 15px;
     border: 2px solid #ccc;
-    width: 250px;
+    width: 200px;
     margin-left: 100%;
 }
